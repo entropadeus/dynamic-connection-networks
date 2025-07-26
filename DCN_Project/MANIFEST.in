@@ -1,0 +1,13 @@
+include README.md
+include LICENSE
+include requirements.txt
+include CONTRIBUTORS.md
+include CITATION.cff
+recursive-include src *.py
+recursive-include examples *.py
+recursive-include tests *.py
+recursive-include experiments *.py
+recursive-include docs *.py *.md
+recursive-include visualizations *.png *.jpg *.svg
+global-exclude *.pyc
+global-exclude __pycache__

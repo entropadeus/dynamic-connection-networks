@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+- family-names: "Lona"
+  given-names: "Ben"
+  orcid: ""
+- family-names: "Claude"
+  given-names: "(Anthropic)"
+  orcid: ""
+title: "Dynamic Connection Networks: Neural Networks with Adaptive Topology"
+version: 0.1.0
+doi: ""
+date-released: 2024-07-26
+url: "https://github.com/yourusername/dynamic-connection-networks"
+preferred-citation:
+  type: software
+  authors:
+  - family-names: "Lona"
+    given-names: "Ben"
+  - family-names: "Claude"
+    given-names: "(Anthropic)"
+  title: "Dynamic Connection Networks: Neural Networks with Adaptive Topology"
+  year: 2024
